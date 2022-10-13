@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Before Start`
 
-Run npm i
-If still giving errors
-Run following commands
-1.npm i axios
-2.npm i @mui/material
-3.npm i @emotion/react
-4.npm i @mui/styled-engine
+Run npm i\
+If still giving errors\
+Run following commands\
+1.npm i axios\
+2.npm i @mui/material\
+3.npm i @emotion/react\
+4.npm i @mui/styled-engine\
 5.npm i @emotion/styled
 
 
